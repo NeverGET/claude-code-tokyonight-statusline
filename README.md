@@ -8,14 +8,17 @@ A custom `statusLine` for [Anthropic's Claude Code CLI](https://code.claude.com/
 
 ## Preview
 
+![Claude Code Tokyo Night statusline](preview.png)
+
+<details>
+<summary>Text representation</summary>
+
 ```text
 ░▒▓   ~/Projects/myapp    main  ●2 ↑1    5h 18%  7d 34%   xhigh   $1.24   22:07  󰈷 f00dface
   󰚩 Opus 4.8  42% · 84.231 / 200k  ████████████████████████░░░░░░░░│░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-*The block above is illustrative ASCII — actual output is colored and the gauge spans your full terminal width.*
-
-> **TODO:** Replace the block above with a real screenshot. Add a `preview.png` to the repo root and reference it here, e.g. `![preview](preview.png)`.
+</details>
 
 ---
 
