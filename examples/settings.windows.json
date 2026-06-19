@@ -1,0 +1,8 @@
+{
+  "statusLine": {
+    "type": "command",
+    "command": "python %USERPROFILE%\\.claude\\scripts\\statusline.py",
+    "padding": 0,
+    "refreshInterval": 10
+  }
+}
